@@ -1,0 +1,40 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/kakulgupta/Desktop/RUBY/Rectangleextra/lib/Geometry.rb": [
+        1,
+        1
+      ],
+      "/Users/kakulgupta/Desktop/RUBY/Rectangleextra/lib/Geometry/rectangle.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/kakulgupta/Desktop/RUBY/Rectangleextra/lib/Geometry/convert.rb": [
+        1,
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1422868777
+  }
+}
